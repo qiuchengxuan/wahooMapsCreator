@@ -3,6 +3,7 @@
 **/*.pyc
 **/*.DS_Store
 **/*.py*.tmp
+**/._*
 
 # build artefacts
 *.pyc
